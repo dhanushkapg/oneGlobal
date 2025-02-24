@@ -33,5 +33,5 @@ This dashboard enables businesses to monitor sales trends, assess product perfor
 <h2>Sales Goals Dashboard</h2>
 <p align="center">
 
-<img src="https://github.com/dhanushkapg/SalesAnalysis/blob/main/1728043281844.jpeg"/>
+<img src="https://github.com/dhanushkapg/oneGlobal/blob/main/OneGlobalSolution_Sales%20Report.png"/>
 <br/>
